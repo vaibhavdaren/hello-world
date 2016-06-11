@@ -1,2 +1,4 @@
 # hello-world
-Beging GIT
+Begining GIT
+
+I know what i want and i am comming to get it :D
